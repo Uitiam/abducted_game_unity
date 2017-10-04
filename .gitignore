@@ -1,9 +1,9 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/Assets/AssetStoreTools*
+abducted_game_unity/[Ll]ibrary/
+abducted_game_unity/[Tt]emp/
+abducted_game_unity/[Oo]bj/
+abducted_game_unity/[Bb]uild/
+abducted_game_unity/[Bb]uilds/
+abducted_game_unity/Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
 /.vs/
